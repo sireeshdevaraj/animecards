@@ -1,0 +1,21 @@
+{
+  "name": "anime-cards",
+  "version": "1.0.6",
+  "description": "A simple api wrapper to get the infromation of cards from KITSU(still in inital phase)",
+  "main": "index.js",
+  "repository": "https://github.com/sireeshdevaraj/animecards",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kitsu",
+    "npm-api-wrapper",
+    "anime-cards"
+  ],
+  "author": "Kuuhaku",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10"
+  }
+}
